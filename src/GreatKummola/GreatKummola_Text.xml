@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- These are from Base/Assets/Text/en_US/Types_Text.xml -->
+
+		<!-- Great Generals -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_BOUDICA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BOUDICA_NAME" Language="en_US">
+			<Text>Kenraali Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNIBAL_BARCA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNIBAL_BARCA_NAME" Language="en_US">
+			<Text>Kannibaali Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SUN_TZU_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SUN_TZU_NAME" Language="en_US">
+			<Text>Vääpeli Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_AETHELFLAED_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AETHELFLAED_NAME" Language="en_US">
+			<Text>Marsalkka Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_EL_CID_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EL_CID_NAME" Language="en_US">
+			<Text>Kessu Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENGHIS_KHAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENGHIS_KHAN_NAME" Language="en_US">
+			<Text>Rautakansleri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAVUS_ADOLPHUS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAVUS_ADOLPHUS_NAME" Language="en_US">
+			<Text>Luutnantti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOAN_OF_ARC_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOAN_OF_ARC_NAME" Language="en_US">
+			<Text>Eversti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANA_NZINGA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANA_NZINGA_NAME" Language="en_US">
+			<Text>Ritsa Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_NAPOLEON_BONAPARTE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NAPOLEON_BONAPARTE_NAME" Language="en_US">
+			<Text>Punaparta Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_RANI_LAKSHMIBAI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RANI_LAKSHMIBAI_NAME" Language="en_US">
+			<Text>Prikaatikenraali Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOSE_DE_SAN_MARTIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOSE_DE_SAN_MARTIN_NAME" Language="en_US">
+			<Text>Majuri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_MONASH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_MONASH_NAME" Language="en_US">
+			<Text>Kersantti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARINA_RASKOVA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARINA_RASKOVA_NAME" Language="en_US">
+			<Text>Majuritar Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAMORI_TURE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAMORI_TURE_NAME" Language="en_US">
+			<Text>Naissoturi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_DWIGHT_EISENHOWER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DWIGHT_EISENHOWER_NAME" Language="en_US">
+			<Text>Kürpraali Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GEORGY_ZHUKOV_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GEORGY_ZHUKOV_NAME" Language="en_US">
+			<Text>Alipäällikkö Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_DOUGLAS_MACARTHUR_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DOUGLAS_MACARTHUR_NAME" Language="en_US">
+			<Text>Yliluutnantti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SUDIRMAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SUDIRMAN_NAME" Language="en_US">
+			<Text>Pyssymies Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_AHMAD_SHAH_MASSOUD_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AHMAD_SHAH_MASSOUD_NAME" Language="en_US">
+			<Text>Rambo Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_VIJAYA_WIMALARATNE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VIJAYA_WIMALARATNE_NAME" Language="en_US">
+			<Text>Riisitautinen Kummola</Text>
+		</Row>
+
+		<!-- Great Admirals -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARTEMISIA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARTEMISIA_NAME" Language="en_US">
+			<Text>Amiraali Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAIUS_DUILIUS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAIUS_DUILIUS_NAME" Language="en_US">
+			<Text>Kapteeni Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_THEMISTOCLES_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_THEMISTOCLES_NAME" Language="en_US">
+			<Text>Kippari Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEIF_ERIKSON_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEIF_ERIKSON_NAME" Language="en_US">
+			<Text>Seilaaja Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJENDRA_CHOLA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJENDRA_CHOLA_NAME" Language="en_US">
+			<Text>Merimies Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHENG_HE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHENG_HE_NAME" Language="en_US">
+			<Text>Perämies Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_DRAKE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_DRAKE_NAME" Language="en_US">
+			<Text>Laivuri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SANTA_CRUZ_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SANTA_CRUZ_NAME" Language="en_US">
+			<Text>Purseri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_YI_SUN_SIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YI_SUN_SIN_NAME" Language="en_US">
+			<Text>Merikadetti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHING_SHIH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHING_SHIH_NAME" Language="en_US">
+			<Text>Kansimies Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HORATIO_NELSON_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HORATIO_NELSON_NAME" Language="en_US">
+			<Text>Lautamies Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LASKARINA_BOUBOULINA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LASKARINA_BOUBOULINA_NAME" Language="en_US">
+			<Text>Hinaaja Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_VON_HIPPER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_VON_HIPPER_NAME" Language="en_US">
+			<Text>Housu Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOAQUIM_MARQUES_LISBOA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOAQUIM_MARQUES_LISBOA_NAME" Language="en_US">
+			<Text>Uimataidoton Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_TOGO_HEIHACHIRO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TOGO_HEIHACHIRO_NAME" Language="en_US">
+			<Text>Märkä-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHESTER_NIMITZ_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHESTER_NIMITZ_NAME" Language="en_US">
+			<Text>Vesimies Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GRACE_HOPPER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GRACE_HOPPER_NAME" Language="en_US">
+			<Text>Hukkuva Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEY_GORSHKOV_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEY_GORSHKOV_NAME" Language="en_US">
+			<Text>Sukeltaja Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO_NAME" Language="en_US">
+			<Text>Kalamies Kummola</Text>
+		</Row>
+		
+		<!-- Great Engineers -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_BI_SHENG_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BI_SHENG_NAME" Language="en_US">
+			<Text>Teknikko Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISIDORE_OF_MILETUS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISIDORE_OF_MILETUS_NAME" Language="en_US">
+			<Text>Suunnittelija Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_OF_ST_GEORGE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_OF_ST_GEORGE_NAME" Language="en_US">
+			<Text>Dippa-inssi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_FILIPPO_BRUNELLESCHI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FILIPPO_BRUNELLESCHI_NAME" Language="en_US">
+			<Text>Hyödytön Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEONARDO_DA_VINCI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEONARDO_DA_VINCI_NAME" Language="en_US">
+			<Text>Helikopteri-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIMAR_SINAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIMAR_SINAN_NAME" Language="en_US">
+			<Text>Silta Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADA_LOVELACE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADA_LOVELACE_NAME" Language="en_US">
+			<Text>Ukko Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAVE_EIFFEL_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAVE_EIFFEL_NAME" Language="en_US">
+			<Text>Eiffel Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_WATT_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_WATT_NAME" Language="en_US">
+			<Text>Watti-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALVAR_AALTO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALVAR_AALTO_NAME" Language="en_US">
+			<Text>Suomi-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_NIKOLA_TESLA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NIKOLA_TESLA_NAME" Language="en_US">
+			<Text>Ajan Teslalla Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ROBERT_GODDARD_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ROBERT_GODDARD_NAME" Language="en_US">
+			<Text>Pähkähullu Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_A_ROEBLING_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_A_ROEBLING_NAME" Language="en_US">
+			<Text>Kale Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_DREW_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_DREW_NAME" Language="en_US">
+			<Text>Meisseli Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEI_KOROLEV_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEI_KOROLEV_NAME" Language="en_US">
+			<Text>Nörtti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_CORREA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_CORREA_NAME" Language="en_US">
+			<Text>Hikinen Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON_NAME" Language="en_US">
+			<Text>Selittäjä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_WERNHER_VON_BRAUN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WERNHER_VON_BRAUN_NAME" Language="en_US">
+			<Text>Osaava Kummola</Text>
+		</Row>
+		
+		<!-- Great Merchants -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_COLAEUS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COLAEUS_NAME" Language="en_US">
+			<Text>Raha-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCUS_LICINIUS_CRASSUS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCUS_LICINIUS_CRASSUS_NAME" Language="en_US">
+			<Text>K-kauppias Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_QIAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_QIAN_NAME" Language="en_US">
+			<Text>Aasialainen Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCO_POLO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCO_POLO_NAME" Language="en_US">
+			<Text>VW Polo Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIERO_DE_BARDI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIERO_DE_BARDI_NAME" Language="en_US">
+			<Text>Pieru Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENE_OF_ATHENS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENE_OF_ATHENS_NAME" Language="en_US">
+			<Text>Yrittäjäneuvos Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GIOVANNI_DE_MEDICI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GIOVANNI_DE_MEDICI_NAME" Language="en_US">
+			<Text>Massi-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAKOB_FUGGER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAKOB_FUGGER_NAME" Language="en_US">
+			<Text>Hillokeisari Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJA_TODAR_MAL_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJA_TODAR_MAL_NAME" Language="en_US">
+			<Text>Upporikas Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADAM_SMITH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADAM_SMITH_NAME" Language="en_US">
+			<Text>Äveriäs Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_SPILSBURY" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_SPILSBURY" Language="en_US">
+			<Text>Toimitusjohtaja Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_JACOB_ASTOR_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_JACOB_ASTOR_NAME" Language="en_US">
+			<Text>Kauppaneuvos Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEVI_STRAUSS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEVI_STRAUSS_NAME" Language="en_US">
+			<Text>Levis Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_ROCKEFELLER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_ROCKEFELLER_NAME" Language="en_US">
+			<Text>Osake-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SARAH_BREEDLOVE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SARAH_BREEDLOVE_NAME" Language="en_US">
+			<Text>Pörssi-Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HELENA_RUBINSTEIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HELENA_RUBINSTEIN_NAME" Language="en_US">
+			<Text>Kassaneiti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MELITTA_BENTZ" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MELITTA_BENTZ" Language="en_US">
+			<Text>Yrittäjä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_KATHERINE_GODDARD_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_KATHERINE_GODDARD_NAME" Language="en_US">
+			<Text>Lantti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ESTEE_LAUDER" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ESTEE_LAUDER" Language="en_US">
+			<Text>Penninvenyttäjä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MASARU_IBUKA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MASARU_IBUKA_NAME" Language="en_US">
+			<Text>Vuorineuvos Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMSETJI_TATA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMSETJI_TATA_NAME" Language="en_US">
+			<Text>Kitupiikki Kummola</Text>
+		</Row>
+		
+		<!-- Great Prophets -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_THE_BAPTIST_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_THE_BAPTIST_NAME" Language="en_US">
+			<Text>Kalervo Kastaja</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONFUCIUS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONFUCIUS_NAME" Language="en_US">
+			<Text>Piispa Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZOROASTER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZOROASTER_NAME" Language="en_US">
+			<Text>Suntio Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIDDHARTHA_GAUTAMA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIDDHARTHA_GAUTAMA_NAME" Language="en_US">
+			<Text>Ylipappi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LAOZI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LAOZI_NAME" Language="en_US">
+			<Text>Imaami Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIMON_PETER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIMON_PETER_NAME" Language="en_US">
+			<Text>Rabbi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_BODHIDHARMA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BODHIDHARMA_NAME" Language="en_US">
+			<Text>Paavi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADI_SHANKARA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADI_SHANKARA_NAME" Language="en_US">
+			<Text>Noita Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SONGTSAN_GAMPO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SONGTSAN_GAMPO_NAME" Language="en_US">
+			<Text>Hellari Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_O_NO_YASUMARO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_O_NO_YASUMARO_NAME" Language="en_US">
+			<Text>Shamaani Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENAEUS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENAEUS_NAME" Language="en_US">
+			<Text>Papitar Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARTIN_LUTHER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARTIN_LUTHER_NAME" Language="en_US">
+			<Text>Luteri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_OF_ASSISI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_OF_ASSISI_NAME" Language="en_US">
+			<Text>Alipappi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MADHVA_ACHARYA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MADHVA_ACHARYA_NAME" Language="en_US">
+			<Text>Ayatollah Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_THOMAS_AQUINAS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_THOMAS_AQUINAS_NAME" Language="en_US">
+			<Text>Juutalainen Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HAJI_HUUD_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HAJI_HUUD_NAME" Language="en_US">
+			<Text>Guru Kummola</Text>
+		</Row>
+		
+		<!-- Great Scientists -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARYABHATA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARYABHATA_NAME" Language="en_US">
+			<Text>Aivonystyrä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_EUCLID_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EUCLID_NAME" Language="en_US">
+			<Text>Kolmio Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HYPATIA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HYPATIA_NAME" Language="en_US">
+			<Text>Teoria Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABU_AL_QASIM_AL_ZAHRAWI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABU_AL_QASIM_AL_ZAHRAWI_NAME" Language="en_US">
+			<Text>Paperi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HILDEGARD_OF_BINGEN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HILDEGARD_OF_BINGEN_NAME" Language="en_US">
+			<Text>Kynäniska Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_OMAR_KHAYYAM_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_OMAR_KHAYYAM_NAME" Language="en_US">
+			<Text>Haaveilija Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GALILEO_GALILEI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GALILEO_GALILEI_NAME" Language="en_US">
+			<Text>Tirkistelijä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISAAC_NEWTON_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISAAC_NEWTON_NAME" Language="en_US">
+			<Text>Omppu Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILIE_DU_CHATELET_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILIE_DU_CHATELET_NAME" Language="en_US">
+			<Text>Lehtori Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALFRED_NOBEL_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALFRED_NOBEL_NAME" Language="en_US">
+			<Text>Dynamiitti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_DARWIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_DARWIN_NAME" Language="en_US">
+			<Text>Evoluutio Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_DMITRI_MENDELEEV_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DMITRI_MENDELEEV_NAME" Language="en_US">
+			<Text>Sijaisopettaja Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALAN_TURING_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALAN_TURING_NAME" Language="en_US">
+			<Text>Tekoäly Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALBERT_EINSTEIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALBERT_EINSTEIN_NAME" Language="en_US">
+			<Text>Suhteeton Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_YOUNG_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_YOUNG_NAME" Language="en_US">
+			<Text>Rehtori Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANAKI_AMMAL_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANAKI_AMMAL_NAME" Language="en_US">
+			<Text>Hikinen Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_LEAKEY_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_LEAKEY_NAME" Language="en_US">
+			<Text>Ärsyttävä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ERWIN_SCHRODINGER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ERWIN_SCHRODINGER_NAME" Language="en_US">
+			<Text>On Se Ei Se Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM_NAME" Language="en_US">
+			<Text>Pelle Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CARL_SAGAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CARL_SAGAN_NAME" Language="en_US">
+			<Text>Avaruus Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_STEPHANIE_KWOLEK_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_STEPHANIE_KWOLEK_NAME" Language="en_US">
+			<Text>Kyborgi Kummola</Text>
+		</Row>
+		
+		<!-- Great Writers -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_BHASA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BHASA_NAME" Language="en_US">
+			<Text>Runo Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HOMER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HOMER_NAME" Language="en_US">
+			<Text>Satu Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_OVID_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_OVID_NAME" Language="en_US">
+			<Text>Kynä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_QU_YUAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_QU_YUAN_NAME" Language="en_US">
+			<Text>Kirja Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GEOFFREY_CHAUCER_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GEOFFREY_CHAUCER_NAME" Language="en_US">
+			<Text>Mustemies Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LI_BAI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LI_BAI_NAME" Language="en_US">
+			<Text>Tikkukirjain Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MURASAKI_SHIKIBU_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MURASAKI_SHIKIBU_NAME" Language="en_US">
+			<Text>Epäselvä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_CAVENDISH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_CAVENDISH_NAME" Language="en_US">
+			<Text>Haiku Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIGUEL_DE_CERVANTES_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIGUEL_DE_CERVANTES_NAME" Language="en_US">
+			<Text>Olutsieppo Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICCOLO_MACHIAVELLI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICCOLO_MACHIAVELLI_NAME" Language="en_US">
+			<Text>Nikotiini Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_WILLIAM_SHAKESPEARE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WILLIAM_SHAKESPEARE_NAME" Language="en_US">
+			<Text>Hullu Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_CATHERINE_D_AULNOY_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_CATHERINE_D_AULNOY_NAME" Language="en_US">
+			<Text>Sekopää Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALEXANDER_PUSHKIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALEXANDER_PUSHKIN_NAME" Language="en_US">
+			<Text>Puska Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDGAR_ALLEN_POE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDGAR_ALLEN_POE_NAME" Language="en_US">
+			<Text>Musta Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_AUSTEN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_AUSTEN_NAME" Language="en_US">
+			<Text>Naisten Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_WOLFGANG_VON_GOETHE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_WOLFGANG_VON_GOETHE_NAME" Language="en_US">
+			<Text>Sossupummi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_SHELLEY_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_SHELLEY_NAME" Language="en_US">
+			<Text>Inhoittava Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUL_MUIS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUL_MUIS_NAME" Language="en_US">
+			<Text>Jihad Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_JOYCE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_JOYCE_NAME" Language="en_US">
+			<Text>Kurttukulma Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILY_DICKINSON_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILY_DICKINSON_NAME" Language="en_US">
+			<Text>Hyi Olkoon Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEO_TOLSTOY_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEO_TOLSTOY_NAME" Language="en_US">
+			<Text>IIHF-presidentti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARK_TWAIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARK_TWAIN_NAME" Language="en_US">
+			<Text>Kummeli Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_F_SCOTT_FITZGERALD_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_F_SCOTT_FITZGERALD_NAME" Language="en_US">
+			<Text>Fantasia Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HG_WELLS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HG_WELLS_NAME" Language="en_US">
+			<Text>Alkoholisoitunut Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_RABINDRANATH_TAGORE_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RABINDRANATH_TAGORE_NAME" Language="en_US">
+			<Text>Kaunokirjoitus Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAREL_CAPEK_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAREL_CAPEK_NAME" Language="en_US">
+			<Text>Kahjo Kummola</Text>
+		</Row>
+		
+		<!-- Great Artists -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANDREY_RUBLEV_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANDREY_RUBLEV_NAME" Language="en_US">
+			<Text>Maalari Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIERONYMUS_BOSCH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIERONYMUS_BOSCH_NAME" Language="en_US">
+			<Text>Tiskikone Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_DONATELLO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DONATELLO_NAME" Language="en_US">
+			<Text>Turtles Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MICHELANGELO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MICHELANGELO_NAME" Language="en_US">
+			<Text>Helikopteri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_QIU_YING_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_QIU_YING_NAME" Language="en_US">
+			<Text>Lihava Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_TITIAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TITIAN_NAME" Language="en_US">
+			<Text>Tukeva Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANGELICA_KAUFFMAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANGELICA_KAUFFMAN_NAME" Language="en_US">
+			<Text>Leuka Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_EL_GRECO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EL_GRECO_NAME" Language="en_US">
+			<Text>Kaksoisleuka Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_REMBRANDT_VAN_RIJN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_REMBRANDT_VAN_RIJN_NAME" Language="en_US">
+			<Text>Värityskirja Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_SOFONISBA_ANGUISSOLA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SOFONISBA_ANGUISSOLA_NAME" Language="en_US">
+			<Text>Iljettävä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANG_SEUNG_EOP_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANG_SEUNG_EOP_NAME" Language="en_US">
+			<Text>Alaston Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_KATSUSHIKA_HOKUSAI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KATSUSHIKA_HOKUSAI_NAME" Language="en_US">
+			<Text>Kaunis Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_VINCENT_VAN_GOGH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VINCENT_VAN_GOGH_NAME" Language="en_US">
+			<Text>Psykedeeli Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDMONIA_LEWIS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDMONIA_LEWIS_NAME" Language="en_US">
+			<Text>Muumi-mamma Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_BORIS_ORLOVSKY_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BORIS_ORLOVSKY_NAME" Language="en_US">
+			<Text>Maalari Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAV_KLIMT_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAV_KLIMT_NAME" Language="en_US">
+			<Text>Käsirauta Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_ANNE_COLLOT_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_ANNE_COLLOT_NAME" Language="en_US">
+			<Text>Kaistapää Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLAUDE_MONET_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLAUDE_MONET_NAME" Language="en_US">
+			<Text>Kirjoituskone Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL_NAME" Language="en_US">
+			<Text>Ihana Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_CASSATT_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_CASSATT_NAME" Language="en_US">
+			<Text>Väri Kummola</Text>
+		</Row>
+		
+		<!-- Great Musicians -->
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_VIVALDI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_VIVALDI_NAME" Language="en_US">
+			<Text>Muusikko Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_SEBASTIAN_BACH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_SEBASTIAN_BACH_NAME" Language="en_US">
+			<Text>Klassinen Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LUDWIG_VAN_BEETHOVEN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LUDWIG_VAN_BEETHOVEN_NAME" Language="en_US">
+			<Text>Kuuro Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_WOLFGANG_AMADEUS_MOZART_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WOLFGANG_AMADEUS_MOZART_NAME" Language="en_US">
+			<Text>Juoppo Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_YATSUHASHI_KENGYO_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YATSUHASHI_KENGYO_NAME" Language="en_US">
+			<Text>Nuotti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_CARLOS_GOMEZ_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_CARLOS_GOMEZ_NAME" Language="en_US">
+			<Text>Säveltäjä Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_LISZT_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_LISZT_NAME" Language="en_US">
+			<Text>Trumpetti Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_FREDERIC_CHOPIN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FREDERIC_CHOPIN_NAME" Language="en_US">
+			<Text>Seppo Hovi Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME" Language="en_US">
+			<Text>Basso Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LIU_TIANHUA_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LIU_TIANHUA_NAME" Language="en_US">
+			<Text>Darude Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIN_DVORAK_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIN_DVORAK_NAME" Language="en_US">
+			<Text>Rokki Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLARA_SCHUMANN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLARA_SCHUMANN_NAME" Language="en_US">
+			<Text>Madonna Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JUVENTINO_ROSAS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JUVENTINO_ROSAS_NAME" Language="en_US">
+			<Text>Loiri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_LILIUOKALANI_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LILIUOKALANI_NAME" Language="en_US">
+			<Text>Euroviisu Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAUHAR_JAAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAUHAR_JAAN_NAME" Language="en_US">
+			<Text>Hannele Lauri Kummola</Text>
+		</Row>
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH_NAME" Language="en_US">
+			<Text>Martti Servo Kummola</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

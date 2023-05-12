@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Great Kummola</Name>
+    <Guid>a0bf0c22-ee03-404c-9e0f-16a04f289a56</Guid>
+    <ProjectGuid>9c41e73a-5ff7-4095-80e9-cdd95963393f</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Kalervo Kummola is one of the greatest persons ever lived.</Teaser>
+    <Description>Kalervo Kummola is a great person.</Description>
+    <Authors>iqqmuT</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+</Associations>]]></AssociationData>
+    <AssemblyName>GreatKummola</AssemblyName>
+    <RootNamespace>GreatKummola</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateText id="Text"><File>GreatKummola_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="GreatKummola.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GreatKummola_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
